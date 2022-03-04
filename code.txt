@@ -20,7 +20,7 @@ Buttons
     name:Click it
     desc:Click it to get a click
     on click:anim icon wobble
-    on click:yield 1 bunny
+    on click:yield 1 click
     icon:?
     no text
     class:bigButton hasFlares
