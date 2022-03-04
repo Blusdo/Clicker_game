@@ -1,4 +1,4 @@
-Let's make a game!
+let's make a game!
   name:Clicker
   by:Blusdo
   desc:This is just a beginners try
