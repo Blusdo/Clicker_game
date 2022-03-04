@@ -1,1 +1,46 @@
+let's make a game!
+  name:Clicker
+  by:Blusdo
+  desc:This is just a beginners try
+  created:05/03/2022
+  updated:05/04/2022
+  version:1
 
+Settings
+  building cost increase:110%
+  building cost refund:30%
+
+Layout
+  use default
+
+Buttons
+  *clickButton
+    name:Click it
+    desc:Click it to get a click
+    on click:anim icon wobble
+    on click:yield 1 bunny
+    icon:?
+    no text
+    class:bigButton hasFlares
+    tooltip origin:bottom
+    tooltip class:red
+
+Resources
+  *click|clicks|clk
+    name:Click|Clicks|Clk
+    desc:Theese are your Clicks
+    icon:?
+
+Shinies
+
+Buildings
+  *TEMPLATE
+    on click:anim glow
+
+
+
+Upgrades
+  *TEMPLATE
+    on click:anim glow
+
+Achievements
