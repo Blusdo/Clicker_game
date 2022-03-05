@@ -83,7 +83,7 @@
 	position:absolute;
 }
 #box-buildings
-{right:10%;}
+{right:50%;}
 
 #box-buildings>.box-header
 {
