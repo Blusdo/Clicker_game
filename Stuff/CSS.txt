@@ -1,6 +1,5 @@
 #game
 {
-	background:#fff;
 	font-size:12px;
 	color:rgba(0,0,0,0.9);
 	text-shadow:none;
@@ -84,7 +83,7 @@
 	position:absolute;
 }
 #box-buildings
-{right:50%;}
+{right:10%;}
 
 #box-buildings>.box-header
 {
