@@ -38,8 +38,8 @@ Shinies
 Buildings
   *TEMPLATE
     on click:anim glow
-  *Clicker|Click|Clickers
-    name:Clicker|Click
+  *Clicker|Clickers
+    name:Click|Clicker
     desc:Each one of theese produces one click per second
     icon:https://github.com/Blusdo/Clicker_game/blob/main/Thing.png?raw=true
     cost:50 clicks
