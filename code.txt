@@ -38,11 +38,26 @@ Shinies
 Buildings
   *TEMPLATE
     on click:anim glow
-
+  *Clicker|Click|Clickers
+    name:Clicker|Click
+    desc:Each one of theese produces one click per second
+    icon:https://github.com/Blusdo/Clicker_game/blob/main/Thing.png?raw=true
+    cost:50 clicks
+    on tick:yield 1 click
+    unlocked
+  *Upgraded Clicker| Upgraded Clickers
+    name:Upgraded Clicker|Upgraded Clickers
+    desc:This is an upgraded version of the clicker that gives 10 clicks per second
+    icon:https://github.com/Blusdo/Clicker_game/blob/main/Thing.png?raw=true
+    cost:250 clicks
+    on tick:yield 10 clicks
+    req:150 clicks:earned
 
 
 Upgrades
   *TEMPLATE
     on click:anim glow
+    
+    
 
 Achievements
