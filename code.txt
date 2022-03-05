@@ -45,7 +45,7 @@ Buildings
     cost:50 clicks
     on tick:yield 1 click
     unlocked
-  *Upgraded_Clicker|Upgraded_Clickers
+  *UpgradedClicker|UpgradedClickers
     name:Upgraded Clicker|Upgraded Clickers
     desc:This is an upgraded version of the clicker that gives 10 clicks per second
     icon:https://github.com/Blusdo/Clicker_game/blob/main/Thing.png?raw=true
