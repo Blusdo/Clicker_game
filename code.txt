@@ -57,7 +57,12 @@ Buildings
 Upgrades
   *TEMPLATE
     on click:anim glow
-    
-    
+  *Mouse
+    name:Mouse
+    desc:An extra mouse to add one click per click :)
+    icon:https://github.com/Blusdo/Clicker_game/blob/main/Thing.png?raw=true
+    cost:500 clicks:earned
+    passive:increase click yield of clickButton by 1
+    req:250 clicks:earned
 
 Achievements
