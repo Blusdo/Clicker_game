@@ -7,6 +7,7 @@ Let's make a game!
   version:1
 
 Settings
+background:https://github.com/Blusdo/Clicker_game/blob/main/Stuff/589333.jpg?raw=true
   building cost increase:110%
   building cost refund:30%
 
